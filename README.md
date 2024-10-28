@@ -21,3 +21,6 @@ This project implements a Siamese neural network to detect dissimilarity between
    ```bash
 
    streamlit run app.py
+
+
+   jbdoqbwdq0i
