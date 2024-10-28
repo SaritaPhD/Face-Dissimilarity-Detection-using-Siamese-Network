@@ -16,3 +16,8 @@ This project implements a Siamese neural network to detect dissimilarity between
 1. Install the dependencies:
    ```bash
    pip install -r requirements.txt
+
+2. Run the Streamlit app:
+   ```bash
+
+   streamlit run app.py
