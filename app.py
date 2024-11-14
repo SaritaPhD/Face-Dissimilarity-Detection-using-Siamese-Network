@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image  
-import torchvision.transforms as transforms
+import torchvision.transforms as transforms 
 import torch
 from src.network import SiameseNetwork
 import torch.nn.functional as F
